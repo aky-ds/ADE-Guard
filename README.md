@@ -1,0 +1,1 @@
+# ADE_GUARD, a mission-critical AI system that transforms noisy, real-world vaccine safety reports into actionable, explainable, and age-aware insights on Adverse Drug Events (ADEs)
