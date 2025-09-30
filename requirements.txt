@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scispacy
+en-core-sci-lg @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_lg-0.5.4.tar.gz
+sentence-transformers
+hdbscan
+umap-learn
+plotly
+shap
+lime
+scikit-learn
+spacy
