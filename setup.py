@@ -17,7 +17,7 @@ setup(
     author='Ayazulhaq Yousafzai',
     author_email='www.ayazkhan.com.21@gmail.com',
     description='a mission-critical AI system that transforms noisy, real-world vaccine safety reports into actionable, explainable, and age-aware insights on Adverse Drug Events (ADEs)',
-    install_requires=get_requires('requirements_dev.txt'),
+    install_requires=get_requires('requirements.txt'),
     packages=find_packages()
     
 )
